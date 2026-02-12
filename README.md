@@ -1,7 +1,7 @@
 ## Tristan alias Tritryi <img src="img/hello.webp" height="80" style="margin-left: 60px;">
 
 
-<img src="img/presentation.webp">
+<img src="img/aboutme.webp" height="10%">
 
 ### About me
 I am an undergraduated french student majoring in system administration, network and security. I also love development especially for some personal projects. 
