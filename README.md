@@ -3,7 +3,6 @@
 
 <img src="img/presentation.webp">
 
-
 ### About me
 I am an undergraduated french student majoring in system administration, network and security. I also love development especially for some personal projects. 
 
@@ -12,17 +11,6 @@ I enjoy web development and a bit of scripting like Python or PHP.
 The main languages I use are PHP, Bash, Python, and a bit of C/C++. I mainly work on Debian systems especially since Debian 13 release.
 
 ### My skills
-
-
-
-
-
-
-
-
-
-
-
 
 #### Programming languages
 
