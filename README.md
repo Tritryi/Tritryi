@@ -10,6 +10,20 @@ I enjoy web development and a bit of scripting like Python or PHP.
 
 The main languages I use are PHP, Bash, Python, and a bit of C/C++. I mainly work on Debian systems especially since Debian 13 release.
 
+### Some facts...
+
+```
+user@debian:~$ ps aux | grep "current-activities"
+NAME                        ACTIVITY
+working-on                  a discord bot
+learning                    discord python API
+
+user@debian:~$ give-fun-facts
+1. I hardly start personal projects but when I do I can spend my whole day on it
+
+2. I want to become a teacher someday
+```
+
 ### My skills
 
 #### Programming languages
