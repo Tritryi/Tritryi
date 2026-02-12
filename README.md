@@ -42,6 +42,7 @@ user@debian:~$ give-fun-facts
 #### Languages spoken
 
 ![French](https://img.shields.io/badge/French-Native-0c41b3?style=for-the-badge)
+
 ![English](https://img.shields.io/badge/English-B2+-de3e21?style=for-the-badge)
 
 <!--
