@@ -1,4 +1,4 @@
-## Tristan alias Tritryi <img src="img/hello.webp" height="60" style="margin-left: 20px;">
+## Tristan alias Tritryi <img src="img/hello.webp" height="80" style="margin-left: 60px;">
 <span style="color:rgb(222,52,235)">
 <ul>
 <li>Debian enjoyer</li>
