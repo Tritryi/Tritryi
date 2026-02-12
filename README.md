@@ -1,10 +1,7 @@
 ## Tristan alias Tritryi <img src="img/hello.webp" height="80" style="margin-left: 60px;">
-<span style="color:rgb(222,52,235)">
-<ul>
-<li>Debian enjoyer</li>
-<li>Back-end web development</li>
-</ul>
-</span>
+
+
+<img src="img/presentation.webp">
 
 
 ### About me
