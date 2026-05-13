@@ -15,8 +15,8 @@ The main languages I use are PHP, Bash, Python, and a bit of C/C++. I mainly wor
 ```
 user@debian:~$ ps aux | grep "current-activities"
 NAME                        ACTIVITY
-working-on                  a discord bot
-learning                    discord python API
+working-on                  mobile app (not public yet)
+learning                    React
 
 user@debian:~$ give-fun-facts
 1. I hardly start personal projects but when I do I can spend my whole day on it
